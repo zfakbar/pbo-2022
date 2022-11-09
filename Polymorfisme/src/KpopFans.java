@@ -6,6 +6,7 @@ public class KpopFans extends Fans {
 
     public KpopFans(String name) {
         super(name);
+
     }
 
     public void watchingPerformances(Musician musician, String expression) {

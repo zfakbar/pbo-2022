@@ -3,7 +3,6 @@ public class Test {
         Fans fans1 = new Fans();
         Fans fans2 = new Fans("Mona");
         Fans fans3 = new KpopFans("Tomi");
-
         KpopFans fans4 = new KpopFans("Febi");
 
 
